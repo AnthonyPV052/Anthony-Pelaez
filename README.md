@@ -3,50 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Presentación Personal</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-        .container {
-            max-width: 800px;
-            margin: auto;
-            background: white;
-            padding: 20px;
-            border-radius: 8px;
-            box-shadow: 0 0 10px rgba(0,0,0,0.1);
-        }
-        h1, h2 {
-            color: #2c3e50;
-        }
-        ul {
-            list-style-type: disc;
-            margin-left: 20px;
-        }
-        .contact {
-            background: #ecf0f1;
-            padding: 10px;
-            border-radius: 5px;
-        }
-        .project-item {
-            background: #f9f9f9;
-            padding: 10px;
-            margin: 10px 0;
-            border-left: 4px solid #2c3e50;
-            border-radius: 4px;
-        }
-        .project-item a {
-            color: #2c3e50;
-            text-decoration: none;
-        }
-        .project-item a:hover {
-            text-decoration: underline;
-        }
-    </style>
+    
 </head>
 <body>
     <div class="container">
